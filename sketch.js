@@ -1,5 +1,5 @@
 
-let speed =  4;       
+let speed =  5;       
 
 let radius = 100;     
 
